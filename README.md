@@ -10,10 +10,11 @@ Command line utility for generating and managing `vuelab` projects
 
 * `vuelab init {{PROJECT_DIRECTORY}}`
 * `cd {{PROJECT_DIRECTORY}}`
-* `npm install`
 * `npm start`
 * `vuelab create route {{URL}}`
 * `vuelab create component {{COMPONENT_NAME}} {{COMPONENT_PATH}}`
+
+View the file `README.md` in the generated directory for more information.
 
 ## Description
 

@@ -15,7 +15,10 @@
   },
   "keywords": [
     "vue",
-    "cli"
+    "cli",
+    "vuejs",
+    "design",
+    "prototype"
   ],
   "author": "Andrew Strader",
   "license": "MIT",
