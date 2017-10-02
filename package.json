@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/reykjavikingur/vuelab-generator#readme",
   "dependencies": {
-    "gnat": "^2.0.0"
+    "gnat": "^2.0.0",
+    "promise": "^8.0.1"
   }
 }
