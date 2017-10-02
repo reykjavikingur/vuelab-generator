@@ -1,6 +1,6 @@
 {
   "name": "vuelab-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line utility to generate and manage Vue projects",
   "main": "index.js",
   "bin": {
