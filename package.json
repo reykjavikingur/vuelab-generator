@@ -1,0 +1,29 @@
+{
+  "name": "vuelab-generator",
+  "version": "1.0.0",
+  "description": "Command line utility to generate and manage Vue projects",
+  "main": "index.js",
+  "bin": {
+    "vuelab": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reykjavikingur/vuelab-generator.git"
+  },
+  "keywords": [
+    "vue",
+    "cli"
+  ],
+  "author": "Andrew Strader",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reykjavikingur/vuelab-generator/issues"
+  },
+  "homepage": "https://github.com/reykjavikingur/vuelab-generator#readme",
+  "dependencies": {
+    "gnat": "^2.0.0"
+  }
+}
